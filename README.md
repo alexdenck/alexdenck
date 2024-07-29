@@ -1,16 +1,18 @@
-## Hi there 👋
+###benvindas ao meu perfil
 
-<!--
-**alexdenck/alexdenck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+meu nome é alex denck
 
-Here are some ideas to get you started:
+- eu estou estudando no alura
+- estou desenvolvendo a linguagen javaescript
+- utiliso este espaso para minha organisacão e conpartilando os meus progtos desenvolvidos 
+###voce ciserenentrar en contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+istagra:@alexdenck7
+
+
+
+
+
+
+
