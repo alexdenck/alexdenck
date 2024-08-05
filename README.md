@@ -3,7 +3,7 @@
   
 meu nome é alex denck
 
-- eu estou estudando no [alura] (https://www.alura.com.br)
+- eu estou estudando no [alura] (https://www.alura.com.br) 
 - estou desenvolvendo a linguagen javaescript
 - utiliso este espaso para minha organisacão e conpartilando os meus progtos desenvolvidos 
 ###voce ciserenentrar en contato comigo 📫
